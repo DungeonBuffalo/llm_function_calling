@@ -1,0 +1,150 @@
+{"instruction": "Flip image 'cat.jpg' horizontally", "response": "<function_call>mirror_image('cat.jpg', 'cat_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Rotate 'sunset.png' vertically", "response": "<function_call>mirror_image('sunset.png', 'sunset_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Turn 'mountain.bmp' diagonal", "response": "<function_call>mirror_image('mountain.bmp', 'mountain_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'beach.tiff' horizontally", "response": "<function_call>mirror_image('beach.tiff', 'beach_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "Reflect 'forest.jpeg' vertically", "response": "<function_call>mirror_image('forest.jpeg', 'forest_mirrored.jpeg', 'vertical')</function_call>"}
+{"instruction": "Invert 'cityscape.gif' diagonal", "response": "<function_call>mirror_image('cityscape.gif', 'cityscape_mirrored.gif', 'diagonal')</function_call>"}
+{"instruction": "Reverse 'portrait.jpg' horizontally", "response": "<function_call>mirror_image('portrait.jpg', 'portrait_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Flip 'flower.png' vertically", "response": "<function_call>mirror_image('flower.png', 'flower_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Rotate 'river.bmp' diagonal", "response": "<function_call>mirror_image('river.bmp', 'river_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'desert.tiff' horizontally", "response": "<function_call>mirror_image('desert.tiff', 'desert_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "turn gray bootle.jpg", "response": "<function_call>rgb_to_gray('bootle.jpg', 'bottle_grayscale.jpg')</function_call>"}
+{"instruction": "apply grayscale to sun1998.png", "response": "<function_call>rgb_to_gray('sun1998.png', 'sun1998_grayscale.png')</function_call>"}
+{"instruction": "convert rose.jpeg to grayscale", "response": "<function_call>rgb_to_gray('rose.jpeg', 'rose_grayscale.jpeg')</function_call>"}
+{"instruction": "make the cat.bmp image black and white", "response": "<function_call>rgb_to_gray('cat.bmp', 'cat_grayscale.bmp')</function_call>"}
+{"instruction": "grayscale the dog.gif picture", "response": "<function_call>rgb_to_gray('dog.gif', 'dog_grayscale.gif')</function_call>"}
+{"instruction": "Resize the image 'sunset.jpg' to 1920x1080", "response": "<function_call>resize_image('sunset.jpg', 'sunset_resized.jpg', (1920, 1080))</function_call>"}
+{"instruction": "Make 'lake.png' 600x400", "response": "<function_call>resize_image('lake.png', 'lake_resized.png', (600, 400))</function_call>"}
+{"instruction": "Change 'mountain_range.bmp' to 800x500", "response": "<function_call>resize_image('mountain_range.bmp', 'mountain_range_resized.bmp', (800, 500))</function_call>"}
+{"instruction": "Adjust 'night_sky.jpeg' to 1000x750", "response": "<function_call>resize_image('night_sky.jpeg', 'night_sky_resized.jpeg', (1000, 750))</function_call>"}
+{"instruction": "Set 'waterfall.tiff' dimensions to 700x500", "response": "<function_call>resize_image('waterfall.tiff', 'waterfall_resized.tiff', (700, 500))</function_call>"}
+{"instruction": "Convert 'flowers.jpg' to 300x250", "response": "<function_call>resize_image('flowers.jpg', 'flowers_resized.jpg', (300, 250))</function_call>"}
+{"instruction": "Resize 'everest.png' to 1366x768", "response": "<function_call>resize_image('everest.png', 'everest_resized.png', (1366, 768))</function_call>"}
+{"instruction": "Make 'sea.bmp' 480x360", "response": "<function_call>resize_image('sea.bmp', 'sea_resized.bmp', (480, 360))</function_call>"}
+{"instruction": "Change 'canyon.jpeg' to 640x360", "response": "<function_call>resize_image('canyon.jpeg', 'canyon_resized.jpeg', (640, 360))</function_call>"}
+{"instruction": "Adjust 'sahara.tiff' to 1280x1024", "response": "<function_call>resize_image('sahara.tiff', 'sahara_resized.tiff', (1280, 1024))</function_call>"}
+{"instruction": "Flip image 'dog.jpg' horizontally", "response": "<function_call>mirror_image('dog.jpg', 'dog_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Rotate 'moon.png' vertically", "response": "<function_call>mirror_image('moon.png', 'moon_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Turn 'building.bmp' diagonal", "response": "<function_call>mirror_image('building.bmp', 'building_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'cliff.tiff' horizontally", "response": "<function_call>mirror_image('cliff.tiff', 'cliff_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "Reflect 'jungle.jpeg' vertically", "response": "<function_call>mirror_image('jungle.jpeg', 'jungle_mirrored.jpeg', 'vertical')</function_call>"}
+{"instruction": "Invert 'pyramid.gif' diagonal", "response": "<function_call>mirror_image('pyramid.gif', 'pyramid_mirrored.gif', 'diagonal')</function_call>"}
+{"instruction": "Reverse 'avatar.jpg' horizontally", "response": "<function_call>mirror_image('avatar.jpg', 'avatar_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Flip 'tulip.png' vertically", "response": "<function_call>mirror_image('tulip.png', 'tulip_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Rotate 'stream.bmp' diagonal", "response": "<function_call>mirror_image('stream.bmp', 'stream_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'arctic.tiff' horizontally", "response": "<function_call>mirror_image('arctic.tiff', 'arctic_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "turn gray house.jpg", "response": "<function_call>rgb_to_gray('house.jpg', 'house_grayscale.jpg')</function_call>"}
+{"instruction": "apply grayscale to car1998.png", "response": "<function_call>rgb_to_gray('car1998.png', 'car1998_grayscale.png')</function_call>"}
+{"instruction": "convert lilly.jpeg to grayscale", "response": "<function_call>rgb_to_gray('lilly.jpeg', 'lilly_grayscale.jpeg')</function_call>"}
+{"instruction": "convert the city.tiff photo to grayscale", "response": "<function_call>rgb_to_gray('city.tiff', 'city_grayscale.tiff')</function_call>"}
+{"instruction": "turn the person.png image to grayscale", "response": "<function_call>rgb_to_gray('person.png', 'person_grayscale.png')</function_call>"}
+{"instruction": "apply a grayscale filter to the scenery.jpg", "response": "<function_call>rgb_to_gray('scenery.jpg', 'scenery_grayscale.jpg')</function_call>"}
+{"instruction": "convert mountain.png to grayscale", "response": "<function_call>rgb_to_gray('mountain.jpeg', 'mountain_grayscale.jpeg')</function_call>"}
+{"instruction": "make the tree.png image grayscale", "response": "<function_call>rgb_to_gray('tree.png', 'tree_grayscale.png')</function_call>"}
+{"instruction": "Resize the image 'sky.jpg' to 640x480", "response": "<function_call>resize_image('sky.jpg', 'sky_resized.jpg', (640, 480))</function_call>"}
+{"instruction": "Make 'river.png' 320x240", "response": "<function_call>resize_image('river.png', 'river_resized.png', (320, 240))</function_call>"}
+{"instruction": "Change 'tropical_island.jpeg' to 720x480", "response": "<function_call>resize_image('tropical_island.jpeg', 'tropical_island_resized.jpeg', (720, 480))</function_call>"}
+{"instruction": "Adjust 'sand_dunes.tiff' to 1920x1080", "response": "<function_call>resize_image('sand_dunes.tiff', 'sand_dunes_resized.tiff', (1920, 1080))</function_call>"}
+{"instruction": "turn gray phone.jpg", "response": "<function_call>rgb_to_gray('phone.jpg', 'phone_grayscale.jpg')</function_call>"}
+{"instruction": "apply grayscale to car2023.png", "response": "<function_call>rgb_to_gray('car2023.png', 'car2023_grayscale.png')</function_call>"}
+{"instruction": "convert daisy.jpeg to grayscale", "response": "<function_call>rgb_to_gray('daisy.jpeg', 'daisy_grayscale.jpeg')</function_call>"}
+{"instruction": "make the kitten.bmp image black and white", "response": "<function_call>rgb_to_gray('kitten.bmp', 'kitten_grayscale.bmp')</function_call>"}
+{"instruction": "grayscale the parrot.gif picture", "response": "<function_call>rgb_to_gray('parrot.gif', 'parrot_grayscale.gif')</function_call>"}
+{"instruction": "convert the urban.tiff photo to grayscale", "response": "<function_call>rgb_to_gray('urban.tiff', 'urban_grayscale.tiff')</function_call>"}
+{"instruction": "turn the model.png image to grayscale", "response": "<function_call>rgb_to_gray('model.png', 'model_grayscale.png')</function_call>"}
+{"instruction": "apply a grayscale filter to the vista.jpg", "response": "<function_call>rgb_to_gray('vista.jpg', 'vista_grayscale.jpg')</function_call>"}
+{"instruction": "convert the mountain_range.jpeg to grayscale", "response": "<function_call>rgb_to_gray('mountain_range.jpeg', 'mountain_range_grayscale.jpeg')</function_call>"}
+{"instruction": "make plant.png grayscale", "response": "<function_call>rgb_to_gray('plant.png', 'plant_grayscale.png')</function_call>"}
+{"instruction": "Resize the image 'lake_tahoe.jpg' to 1280x720", "response": "<function_call>resize_image('lake_tahoe.jpg', 'lake_tahoe_resized.jpg', (1280, 720))</function_call>"}
+{"instruction": "Make 'autumn_leaves.png' 640x480", "response": "<function_call>resize_image('autumn_leaves.png', 'autumn_leaves_resized.png', (640, 480))</function_call>"}
+{"instruction": "Change 'snowy_mountains.bmp' to 1920x1080", "response": "<function_call>resize_image('snowy_mountains.bmp', 'snowy_mountains_resized.bmp', (1920, 1080))</function_call>"}
+{"instruction": "Adjust 'city_lights.jpeg' to 1024x768", "response": "<function_call>resize_image('city_lights.jpeg', 'city_lights_resized.jpeg', (1024, 768))</function_call>"}
+{"instruction": "Set 'water_ripples.tiff' dimensions to 800x600", "response": "<function_call>resize_image('water_ripples.tiff', 'water_ripples_resized.tiff', (800, 600))</function_call>"}
+{"instruction": "Convert 'sunflowers.jpg' to 300x300", "response": "<function_call>resize_image('sunflowers.jpg', 'sunflowers_resized.jpg', (300, 300))</function_call>"}
+{"instruction": "Resize 'rocky_beach.png' to 1366x768", "response": "<function_call>resize_image('rocky_beach.png', 'rocky_beach_resized.png', (1366, 768))</function_call>"}
+{"instruction": "Make 'starry_night.bmp' 400x400", "response": "<function_call>resize_image('starry_night.bmp', 'starry_night_resized.bmp', (400, 400))</function_call>"}
+{"instruction": "Change 'modern_city.jpeg' to 720x540", "response": "<function_call>resize_image('modern_city.jpeg', 'modern_city_resized.jpeg', (720, 540))</function_call>"}
+{"instruction": "Adjust 'leaf_closeup.tiff' to 640x360", "response": "<function_call>resize_image('leaf_closeup.tiff', 'leaf_closeup_resized.tiff', (640, 360))</function_call>"}
+{"instruction": "Flip image 'parrot.jpg' horizontally", "response": "<function_call>mirror_image('parrot.jpg', 'parrot_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Rotate 'milky_way.png' vertically", "response": "<function_call>mirror_image('milky_way.png', 'milky_way_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Turn 'ancient_ruins.bmp' diagonal", "response": "<function_call>mirror_image('ancient_ruins.bmp', 'ancient_ruins_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'mountain_lake.tiff' horizontally", "response": "<function_call>mirror_image('mountain_lake.tiff', 'mountain_lake_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "turn gray clock_tower.jpg", "response": "<function_call>rgb_to_gray('clock_tower.jpg', 'clock_tower_grayscale.jpg')</function_call>"}
+{"instruction": "Turn the lighthouse.jpg image into grayscale", "response": "<function_call>rgb_to_gray('lighthouse.jpg', 'lighthouse_grayscale.jpg')</function_call>"}
+{"instruction": "Convert butterfly.png to black and white", "response": "<function_call>rgb_to_gray('butterfly.png', 'butterfly_grayscale.png')</function_call>"}
+{"instruction": "Make the castle.bmp photo monochrome", "response": "<function_call>rgb_to_gray('castle.bmp', 'castle_grayscale.bmp')</function_call>"}
+{"instruction": "Grayscale the meadow.gif picture", "response": "<function_call>rgb_to_gray('meadow.gif', 'meadow_grayscale.gif')</function_call>"}
+{"instruction": "Apply grayscale mode to clouds.tiff", "response": "<function_call>rgb_to_gray('clouds.tiff', 'clouds_grayscale.tiff')</function_call>"}
+{"instruction": "Transform the aurora.webp file into grayscale", "response": "<function_call>rgb_to_gray('aurora.webp', 'aurora_grayscale.webp')</function_call>"}
+{"instruction": "Change night_sky.jpeg to black and white", "response": "<function_call>rgb_to_gray('night_sky.jpeg', 'night_sky_grayscale.jpeg')</function_call>"}
+{"instruction": "Render the river.jpg image in grayscale", "response": "<function_call>rgb_to_gray('river.jpg', 'river_grayscale.jpg')</function_call>"}
+{"instruction": "Switch forest_path.png to grayscale", "response": "<function_call>rgb_to_gray('forest_path.png', 'forest_path_grayscale.png')</function_call>"}
+{"instruction": "Make the mountain_peak.bmp file grayscale", "response": "<function_call>rgb_to_gray('mountain_peak.bmp', 'mountain_peak_grayscale.bmp')</function_call>"}
+{"instruction": "Grayscale the sunset_beach.gif photo", "response": "<function_call>rgb_to_gray('sunset_beach.gif', 'sunset_beach_grayscale.gif')</function_call>"}
+{"instruction": "Convert city_lights.tiff to monochrome", "response": "<function_call>rgb_to_gray('city_lights.tiff', 'city_lights_grayscale.tiff')</function_call>"}
+{"instruction": "Apply black and white effect on moonrise.webp", "response": "<function_call>rgb_to_gray('moonrise.webp', 'moonrise_grayscale.webp')</function_call>"}
+{"instruction": "Turn village_scene.jpeg into grayscale", "response": "<function_call>rgb_to_gray('village_scene.jpeg', 'village_scene_grayscale.jpeg')</function_call>"}
+{"instruction": "Transform lake_reflection.jpg into black and white", "response": "<function_call>rgb_to_gray('lake_reflection.jpg', 'lake_reflection_grayscale.jpg')</function_call>"}
+{"instruction": "Make the snowy_mountain.png image grayscale", "response": "<function_call>rgb_to_gray('snowy_mountain.png', 'snowy_mountain_grayscale.png')</function_call>"}
+{"instruction": "Switch ocean_wave.bmp to grayscale mode", "response": "<function_call>rgb_to_gray('ocean_wave.bmp', 'ocean_wave_grayscale.bmp')</function_call>"}
+{"instruction": "Render autumn_forest.gif in monochrome", "response": "<function_call>rgb_to_gray('autumn_forest.gif', 'autumn_forest_grayscale.gif')</function_call>"}
+{"instruction": "Convert star_cluster.tiff to grayscale", "response": "<function_call>rgb_to_gray('star_cluster.tiff', 'star_cluster_grayscale.tiff')</function_call>"}
+{"instruction": "Apply grayscale to desert_sunset.webp", "response": "<function_call>rgb_to_gray('desert_sunset.webp', 'desert_sunset_grayscale.webp')</function_call>"}
+{"instruction": "Turn valley_view.jpeg into a black and white version", "response": "<function_call>rgb_to_gray('valley_view.jpeg', 'valley_view_grayscale.jpeg')</function_call>"}
+{"instruction": "Make the tropical_beach.jpg image monochrome", "response": "<function_call>rgb_to_gray('tropical_beach.jpg', 'tropical_beach_grayscale.jpg')</function_call>"}
+{"instruction": "Grayscale the winter_village.png photo", "response": "<function_call>rgb_to_gray('winter_village.png', 'winter_village_grayscale.png')</function_call>"}
+{"instruction": "Switch mountain_river.bmp to grayscale", "response": "<function_call>rgb_to_gray('mountain_river.bmp', 'mountain_river_grayscale.bmp')</function_call>"}
+{"instruction": "Render the northern_lights.gif image in black and white", "response": "<function_call>rgb_to_gray('northern_lights.gif', 'northern_lights_grayscale.gif')</function_call>"}
+{"instruction": "Convert sunrise_over_ocean.tiff to grayscale", "response": "<function_call>rgb_to_gray('sunrise_over_ocean.tiff', 'sunrise_over_ocean_grayscale.tiff')</function_call>"}
+{"instruction": "Flip 'eagle.jpg' horizontally", "response": "<function_call>mirror_image('eagle.jpg', 'eagle_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Rotate 'ocean_view.png' vertically", "response": "<function_call>mirror_image('ocean_view.png', 'ocean_view_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Mirror 'castle_ruins.bmp' diagonally", "response": "<function_call>mirror_image('castle_ruins.bmp', 'castle_ruins_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Create a horizontal mirror of 'sunset.jpeg'", "response": "<function_call>mirror_image('sunset.jpeg', 'sunset_mirrored.jpeg', 'horizontal')</function_call>"}
+{"instruction": "Flip 'forest_path.tiff' vertically", "response": "<function_call>mirror_image('forest_path.tiff', 'forest_path_mirrored.tiff', 'vertical')</function_call>"}
+{"instruction": "Apply diagonal flip to 'statue_of_liberty.webp'", "response": "<function_call>mirror_image('statue_of_liberty.webp', 'statue_of_liberty_mirrored.webp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'lake_reflection.gif' horizontally", "response": "<function_call>mirror_image('lake_reflection.gif', 'lake_reflection_mirrored.gif', 'horizontal')</function_call>"}
+{"instruction": "Turn 'mountain_peak.jpg' vertical", "response": "<function_call>mirror_image('mountain_peak.jpg', 'mountain_peak_mirrored.jpg', 'vertical')</function_call>"}
+{"instruction": "Flip 'desert_sands.png' diagonally", "response": "<function_call>mirror_image('desert_sands.png', 'desert_sands_mirrored.png', 'diagonal')</function_call>"}
+{"instruction": "Horizontally mirror 'city_skyline.bmp'", "response": "<function_call>mirror_image('city_skyline.bmp', 'city_skyline_mirrored.bmp', 'horizontal')</function_call>"}
+{"instruction": "Vertically rotate 'flower_field.tiff'", "response": "<function_call>mirror_image('flower_field.tiff', 'flower_field_mirrored.tiff', 'vertical')</function_call>"}
+{"instruction": "Create a diagonal mirror of 'spaceship.webp'", "response": "<function_call>mirror_image('spaceship.webp', 'spaceship_mirrored.webp', 'diagonal')</function_call>"}
+{"instruction": "Flip 'penguin.jpg' horizontally", "response": "<function_call>mirror_image('penguin.jpg', 'penguin_mirrored.jpg', 'horizontal')</function_call>"}
+{"instruction": "Mirror 'waterfall_scene.png' vertically", "response": "<function_call>mirror_image('waterfall_scene.png', 'waterfall_scene_mirrored.png', 'vertical')</function_call>"}
+{"instruction": "Diagonally flip 'ancient_scroll.bmp'", "response": "<function_call>mirror_image('ancient_scroll.bmp', 'ancient_scroll_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Apply horizontal flip to 'moon_landing.tiff'", "response": "<function_call>mirror_image('moon_landing.tiff', 'moon_landing_mirrored.tiff', 'horizontal')</function_call>"}
+{"instruction": "Rotate 'sunny_beach.webp' vertically", "response": "<function_call>mirror_image('sunny_beach.webp', 'sunny_beach_mirrored.webp', 'vertical')</function_call>"}
+{"instruction": "Mirror 'modern_art.jpg' diagonally", "response": "<function_call>mirror_image('modern_art.jpg', 'modern_art_mirrored.jpg', 'diagonal')</function_call>"}
+{"instruction": "Flip 'snowy_mountains.png' horizontally", "response": "<function_call>mirror_image('snowy_mountains.png', 'snowy_mountains_mirrored.png', 'horizontal')</function_call>"}
+{"instruction": "Vertically mirror 'night_city.tiff'", "response": "<function_call>mirror_image('night_city.tiff', 'night_city_mirrored.tiff', 'vertical')</function_call>"}
+{"instruction": "Apply diagonal mirroring to 'coral_reef.bmp'", "response": "<function_call>mirror_image('coral_reef.bmp', 'coral_reef_mirrored.bmp', 'diagonal')</function_call>"}
+{"instruction": "Mirror 'autumn_leaves.webp' horizontally", "response": "<function_call>mirror_image('autumn_leaves.webp', 'autumn_leaves_mirrored.webp', 'horizontal')</function_call>"}
+{"instruction": "Flip 'tropical_rainforest.jpg' vertically", "response": "<function_call>mirror_image('tropical_rainforest.jpg', 'tropical_rainforest_mirrored.jpg', 'vertical')</function_call>"}
+{"instruction": "Diagonally rotate 'historic_bridge.png'", "response": "<function_call>mirror_image('historic_bridge.png', 'historic_bridge_mirrored.png', 'diagonal')</function_call>"}
+{"instruction": "Horizontally flip 'starry_night.bmp'", "response": "<function_call>mirror_image('starry_night.bmp', 'starry_night_mirrored.bmp', 'horizontal')</function_call>"}
+{"instruction": "Create vertical mirror of 'sahara_desert.tiff'", "response": "<function_call>mirror_image('sahara_desert.tiff', 'sahara_desert_mirrored.tiff', 'vertical')</function_call>"}
+{"instruction": "Resize 'forest.jpg' to 1280x720 resolution", "response": "<function_call>resize_image('forest.jpg', 'forest_resized.jpg', (1280, 720))</function_call>"}
+{"instruction": "Scale down 'beach.png' to 800x600 pixels", "response": "<function_call>resize_image('beach.png', 'beach_resized.png', (800, 600))</function_call>"}
+{"instruction": "Adjust 'cityscape.bmp' dimensions to 1366x768", "response": "<function_call>resize_image('cityscape.bmp', 'cityscape_resized.bmp', (1366, 768))</function_call>"}
+{"instruction": "Set 'portrait.jpeg' size to 500x500 square", "response": "<function_call>resize_image('portrait.jpeg', 'portrait_resized.jpeg', (500, 500))</function_call>"}
+{"instruction": "Change 'flower.tiff' resolution to 1440x900", "response": "<function_call>resize_image('flower.tiff', 'flower_resized.tiff', (1440, 900))</function_call>"}
+{"instruction": "Make 'animal.webp' 1600x900 pixels wide", "response": "<function_call>resize_image('animal.webp', 'animal_resized.webp', (1600, 900))</function_call>"}
+{"instruction": "Resize 'skyline.gif' to 1920x1200", "response": "<function_call>resize_image('skyline.gif', 'skyline_resized.gif', (1920, 1200))</function_call>"}
+{"instruction": "Scale 'ocean.jpg' down to 300x200", "response": "<function_call>resize_image('ocean.jpg', 'ocean_resized.jpg', (300, 200))</function_call>"}
+{"instruction": "Adjust 'meadow.png' to 400x300 dimensions", "response": "<function_call>resize_image('meadow.png', 'meadow_resized.png', (400, 300))</function_call>"}
+{"instruction": "Set 'bridge.bmp' resolution to 1024x768", "response": "<function_call>resize_image('bridge.bmp', 'bridge_resized.bmp', (1024, 768))</function_call>"}
+{"instruction": "Change 'fireworks.jpeg' size to 1200x800", "response": "<function_call>resize_image('fireworks.jpeg', 'fireworks_resized.jpeg', (1200, 800))</function_call>"}
+{"instruction": "Resize 'desert.tiff' to 900x600 pixels", "response": "<function_call>resize_image('desert.tiff', 'desert_resized.tiff', (900, 600))</function_call>"}
+{"instruction": "Scale up 'bird.webp' to 2048x1152", "response": "<function_call>resize_image('bird.webp', 'bird_resized.webp', (2048, 1152))</function_call>"}
+{"instruction": "Make 'mountain.gif' 640x480 resolution", "response": "<function_call>resize_image('mountain.gif', 'mountain_resized.gif', (640, 480))</function_call>"}
+{"instruction": "Adjust 'lake.jpg' dimensions to 1080x1920 (portrait)", "response": "<function_call>resize_image('lake.jpg', 'lake_resized.jpg', (1080, 1920))</function_call>"}
+{"instruction": "Set 'building.png' size to 800x1280", "response": "<function_call>resize_image('building.png', 'building_resized.png', (800, 1280))</function_call>"}
+{"instruction": "Resize 'sunset2.bmp' to 1400x900 pixels", "response": "<function_call>resize_image('sunset2.bmp', 'sunset2_resized.bmp', (1400, 900))</function_call>"}
+{"instruction": "Scale 'river.jpeg' down to 720x480", "response": "<function_call>resize_image('river.jpeg', 'river_resized.jpeg', (720, 480))</function_call>"}
+{"instruction": "Change 'park.tiff' resolution to 1280x800", "response": "<function_call>resize_image('park.tiff', 'park_resized.tiff', (1280, 800))</function_call>"}
+{"instruction": "Adjust 'city.webp' dimensions to 1600x1000", "response": "<function_call>resize_image('city.webp', 'city_resized.webp', (1600, 1000))</function_call>"}
+{"instruction": "Set 'island.gif' size to 960x540", "response": "<function_call>resize_image('island.gif', 'island_resized.gif', (960, 540))</function_call>"}
+{"instruction": "Resize 'snow.jpg' to 1152x864 resolution", "response": "<function_call>resize_image('snow.jpg', 'snow_resized.jpg', (1152, 864))</function_call>"}
+{"instruction": "Scale 'road.png' to 1200x630 (social media size)", "response": "<function_call>resize_image('road.png', 'road_resized.png', (1200, 630))</function_call>"}
+{"instruction": "Make 'flower2.bmp' 1920x1080 pixels", "response": "<function_call>resize_image('flower2.bmp', 'flower2_resized.bmp', (1920, 1080))</function_call>"}
+{"instruction": "Adjust 'night.jpeg' dimensions to 1366x768", "response": "<function_call>resize_image('night.jpeg', 'night_resized.jpeg', (1366, 768))</function_call>"}
+{"instruction": "Set 'portrait2.tiff' resolution to 750x1000", "response": "<function_call>resize_image('portrait2.tiff', 'portrait2_resized.tiff', (750, 1000))</function_call>"}
